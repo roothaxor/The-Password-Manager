@@ -1,0 +1,34 @@
+import os, sys, getpass, time
+import subprocess
+from __files import info, author, version
+os.system('cls')
+osnfosdnfiodsnfosdinfosin = '''\n
+		**** Secret material - Level 6 Clearance ****
+\nAll information inside this program requires protection of confidentiality. 
+Access is restricted by law or regulation to particular groups of people,
+Mishandling can incur criminal penalties and loss of respect\n
+Equivalent to US DOD classification FOUO - For Official Use Only
+'''
+print osnfosdnfiodsnfosdinfosin
+try:
+	print "\n\n"
+	adafaczxcvcadfasdasdas = getpass.getpass('Enter Your S-Key : ')
+except KeyboardInterrupt:
+	os.system('cls')
+	print "\n\n Ahh! Seems like someone forgot the password! eh.."
+try:
+	if (adafaczxcvcadfasdasdas == author.ionfdsnfdisncdscnso):
+		info.ddcrypt()
+		proc = subprocess.Popen(['more','/C','uninstall.exe'], shell=True)
+		proc.wait()
+		version.eecrypt()
+	elif (adafaczxcvcadfasdasdas == 'roothaxor'):
+		print "System Breach Protocol inititated ! Deleting database file Now...."
+		#os.system('del uninstall.exe')
+		time.sleep(2)
+		print "\n\nControl unit has recieved message of breach! terminal access disconnected"+"\n\n"
+	else:
+		print "\n\n[+] Access Denied [+]"
+except NameError:
+	pass
+	
