@@ -1,4 +1,4 @@
-# The Password Manager 8-)
+# The Password Manager
  * The Password Manager Project is Powered by Python 2.7
  * Dont require internet ( Never worry for password leak online, unlike other password managers which promise to be safest softwares online, but trading your data for money ) 
  * Encrypts your stored password's with AES-256 Encryption ( Without S-key not even you can see the Database )
@@ -36,15 +36,17 @@ Goto __files folder edit author.py replace toor with your password
 ```
 
 ## ScreenShots
-
+#### Right-Click :
 ![Screenshot](https://raw.githubusercontent.com/roothaxor/The-Password-Manager/master/Screenshots/screenshot_1.png)
-
+#### Command line interface :
 ![Screenshot](https://raw.githubusercontent.com/roothaxor/The-Password-Manager/master/Screenshots/Screenshot_2.png)
-
+#### Generating password, recording the reason for password
 ![Screenshot](https://raw.githubusercontent.com/roothaxor/The-Password-Manager/master/Screenshots/Screenshot_3.png)
+#### To access the database
 ![Screenshot](https://raw.githubusercontent.com/roothaxor/The-Password-Manager/master/Screenshots/Screenshot_4.png)
+#### Database-view.bat :)
 ![Screenshot](https://raw.githubusercontent.com/roothaxor/The-Password-Manager/master/Screenshots/Screenshot_5.png)
+#### Example of Database after login
 ![Screenshot](https://raw.githubusercontent.com/roothaxor/The-Password-Manager/master/Screenshots/Screenshot_6.png)
-
-Here is an view of Password's ( AES Encrypted )
+#### Here is an view of Password file ( AES Encrypted )
 ![Screenshot](https://raw.githubusercontent.com/roothaxor/The-Password-Manager/master/Screenshots/Screenshot_7.png)
