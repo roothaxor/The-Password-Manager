@@ -39,4 +39,12 @@ Goto __files folder edit author.py replace toor with your password
 
 ![Screenshot](https://raw.githubusercontent.com/roothaxor/The-Password-Manager/master/Screenshots/screenshot_1.png)
 
-![Screenshot](https://raw.githubusercontent.com/roothaxor/The-Password-Manager/master/Screenshots/Screenshot_2.png){:height="36px" width="36px"}
+![Screenshot](https://raw.githubusercontent.com/roothaxor/The-Password-Manager/master/Screenshots/Screenshot_2.png)
+
+![Screenshot](https://raw.githubusercontent.com/roothaxor/The-Password-Manager/master/Screenshots/Screenshot_3.png)
+![Screenshot](https://raw.githubusercontent.com/roothaxor/The-Password-Manager/master/Screenshots/Screenshot_4.png)
+![Screenshot](https://raw.githubusercontent.com/roothaxor/The-Password-Manager/master/Screenshots/Screenshot_5.png)
+![Screenshot](https://raw.githubusercontent.com/roothaxor/The-Password-Manager/master/Screenshots/Screenshot_6.png)
+
+Here is an view of Password's ( AES Encrypted )
+![Screenshot](https://raw.githubusercontent.com/roothaxor/The-Password-Manager/master/Screenshots/Screenshot_7.png)
