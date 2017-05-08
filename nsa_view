@@ -18,7 +18,13 @@ except KeyboardInterrupt:
 	print "\n\n Ahh! Seems like someone forgot the password! eh.."
 try:
 	if (adafaczxcvcadfasdasdas == author.ionfdsnfdisncdscnso):
-		info.ddcrypt()
+		try:
+			info.ddcrypt()
+		except TypeError:
+			version.eecrypt()
+			print "Wait a sec.. "
+			time.sleep(3)
+			info.ddcrypt()
 		proc = subprocess.Popen(['more','/C','uninstall.exe'], shell=True)
 		proc.wait()
 		version.eecrypt()
