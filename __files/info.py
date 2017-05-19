@@ -25,10 +25,10 @@ class AESCipher:
 
 def ddcrypt():
 	cipher = AESCipher('thisisfakecipher')
-	file = open('uninstall.exe','r')
+	file = open('C:/tools/pass/uninstall.exe','r')
 	file = file.read()
 	decrypted = cipher.decrypt(file)
-	fil = open('uninstall.exe', 'w')
+	fil = open('C:/tools/pass/uninstall.exe', 'w')
 	fil.write(decrypted)
 	fil.close()
 	#print encrypted
