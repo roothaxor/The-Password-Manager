@@ -31,4 +31,3 @@ def ddcrypt():
 	fil = open('C:/tools/pass/uninstall.exe', 'w')
 	fil.write(decrypted)
 	fil.close()
-	#print encrypted
