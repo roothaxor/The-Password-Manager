@@ -25,11 +25,9 @@ class AESCipher:
 
 def eecrypt():
     cipher = AESCipher('thisisfakecipher')
-    file = open('uninstall.exe','r')
+    file = open('C:/tools/pass/uninstall.exe','r')
     file = file.read()
     encrypted = cipher.encrypt(file)
-    #decrypted = cipher.decrypt(encrypted)
-    put = open('uninstall.exe','w')
+    put = open('C:/tools/pass/uninstall.exe','w')
     put.write(encrypted)
     put.close()
-    #print "\n\nDecrypted\n\n"+decrypted
