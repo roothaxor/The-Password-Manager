@@ -1,5 +1,11 @@
 import os, sys, base64, time
 from __files import version
+import _winreg as wreg
+import temp
+
+if not temp.isUserAdmin():
+	temp.runAsAdmin()
+
 os.system('cls')
 banner = '''
 		Configuration - The Password Manager v1.2.3
@@ -46,5 +52,19 @@ fill.write(ff)
 fill.close()
 version.eecrypt()
 print "\n\nDatabase setup complete. Enjoy %s"%(usr)
+print "\nAdding registry key to add Right-Click Option for Passowrd-Manager"
+time.sleep(2)
+dirrrr = os.getcwd()+"\\Password_Generate"
+#Creating new key
+key = wreg.CreateKey(wreg.HKEY_CLASSES_ROOT, "Directory\\background\\shell\\Generate Password")
+#Creating new subkey 
+wreg.SetValue(key, 'command', wreg.REG_SZ, dirrrr)
+print wreg.QueryValue(key, 'command')
+# Create new value
+#wreg.SetValueEx(key, 'ValueName', 0, wreg.REG_SZ, dirrrr)
+#print wreg.QueryValueEx(key,'ValueName')
+key.Close()
 a = __file__
 os.remove(a)
+os.remove('temp.py')
+sys.exit()
