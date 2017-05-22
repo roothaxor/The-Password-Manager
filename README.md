@@ -1,6 +1,6 @@
 # The Password Manager
  * Dont require internet ( Never worry for password leak online, unlike other password managers which promise to be safest softwares online, but trading your data for money ) 
- * Encrypts your stored password's with AES-256 Encryption ( Without S-key not even you can see the Database )
+ * Encrypts your stored password's with AES-256 Encryption ( Without Password not even you can see the Database )
  * Command line interface, Generates Strong & Random Password ( Cannot be guessed/brute forced )
 
 ## Installation Guide `Read Carefully`
