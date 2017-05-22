@@ -29,14 +29,14 @@ Adding `Generate Password` option to mouse right click button
 Open `registry-file` folder and run regadd.reg
 ```
 #### Configuration
-Updating `Password`, `Database location`,`Panic Password` or `CipherKey` 
-```
 Goto __files folder edit author.py
+mostly change only these, if you are going to change the cipher key. you will have to delete the jesus.db and create a new one
+why? - jesus.db with this tool is already encrypted using cipher in author.py
+
+```
 example:
 ionfdsnfdisncdscnso = 'password'
-filedir = r'C:\tools\pass\jesus.db' 
 panicpassword = 'roothaxor'
-cipherKey = 'thisaafakecipher'
 ```
 ##### Panic Password
 
