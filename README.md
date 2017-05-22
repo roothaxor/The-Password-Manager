@@ -1,8 +1,7 @@
 # The Password Manager
- * The Password Manager Project is Powered by Python 2.7
  * Dont require internet ( Never worry for password leak online, unlike other password managers which promise to be safest softwares online, but trading your data for money ) 
  * Encrypts your stored password's with AES-256 Encryption ( Without S-key not even you can see the Database )
- * Command line interface - Cool heh!
+ * Command line interface
  * Generates Strong & Random Password ( Cannot be guessed/brute forced )
 
 ## Installation Guide `Read Carefully`
@@ -22,18 +21,28 @@ Create Folder named `tools`
 Goto tools folder and create Folder named `pass`
 Goto pass folder and extract .zip file there
 
-Ex: Extract files in C:/tools/pass/
+ie: Extract files in C:/tools/pass/
 ```
 Adding `Generate Password` option to mouse right click button
 
 ``` 
 Open `registry-file` folder and run regadd.reg
 ```
-Updating `S-key` ( Password for database access )
+#### Configuration
+Updating `Password`, `Database location`,`Panic Password` or `CipherKey` 
 ```
-For your S-key to access database. 
-Goto __files folder edit author.py replace toor with your password
+Goto __files folder edit author.py
+example:
+ionfdsnfdisncdscnso = 'password'
+filedir = r'C:\tools\pass\jesus.db' 
+panicpassword = 'roothaxor'
+cipherKey = 'thisaafakecipher'
 ```
+##### Panic Password
+
+Ok, incase you are forced to open the password manager, Enter the panic password
+this will move your database file to C:\users\user\appdata\roaming
+so password manager won't work untill you move that file back.
 
 ## ScreenShots
 #### Right-Click :
