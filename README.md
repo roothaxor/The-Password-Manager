@@ -33,11 +33,13 @@ so password manager won't work untill you move that file back.
 ![Alt text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/config.png)
 
 
-`Right-Click Will Show New Option`<br />
+`Right-Click `
+> Right-Click will show new option : Generate Password
+<br />
 ![Alt text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/right_click.png)
 
 
-`Example view of how Password Generate working process!`
+`Password Generation working process!`
 > For reason: ie: my Facebook ( or put email next to it for ease ), how much letter in digits ( ie: 10,20,30 )<br />
 ![Alt text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/pass_gen.png)
 
