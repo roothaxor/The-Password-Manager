@@ -27,18 +27,11 @@ Ok, incase you are forced to open the password manager, Enter the panic password
 this will move your database file to C:\users\user\appdata\roaming
 so password manager won't work untill you move that file back.
 
-## ScreenShots ( Old )
-#### Right-Click :
-![Screenshot](https://raw.githubusercontent.com/roothaxor/The-Password-Manager/master/Screenshots/screenshot_1.png)
-#### Command line interface :
-![Screenshot](https://raw.githubusercontent.com/roothaxor/The-Password-Manager/master/Screenshots/Screenshot_2.png)
-#### Generating password, recording the reason for password
-![Screenshot](https://raw.githubusercontent.com/roothaxor/The-Password-Manager/master/Screenshots/Screenshot_3.png)
-#### To access the database
-![Screenshot](https://raw.githubusercontent.com/roothaxor/The-Password-Manager/master/Screenshots/Screenshot_4.png)
-#### Database-view.bat :)
-![Screenshot](https://raw.githubusercontent.com/roothaxor/The-Password-Manager/master/Screenshots/Screenshot_5.png)
-#### Example of Database after login
-![Screenshot](https://raw.githubusercontent.com/roothaxor/The-Password-Manager/master/Screenshots/Screenshot_6.png)
-#### Here is an view of Password file ( AES Encrypted )
-![Screenshot](https://raw.githubusercontent.com/roothaxor/The-Password-Manager/master/Screenshots/Screenshot_7.png)
+## ScreenShots ( Updated: 23/05/17 )
+`Automated Configuration`
+> config.py will require admin priv's to access the windows registry
+<p align="center">
+  <img width="560" height="400" src="https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/config.png">
+</p>
+`Right-Click Will Show new Option`
+[!Alt Text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/right_click.png)
