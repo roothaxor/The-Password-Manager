@@ -2,6 +2,7 @@
 <p align="center">
   <img src="http://orig06.deviantart.net/f419/f/2013/294/b/4/animated_3d_python_powered_logo120frame_apng_by_metallicow-d6rdza2.png">
 </p><br />
+
  * Dont require internet ( Never worry for password leak online, unlike other password managers which promise to be safest softwares online, but trading your data for money ) 
  * Encrypts your stored password's with AES-256 Encryption ( Without Password not even you can see the Database )
  * Command line interface, Generates Strong & Random Password ( Cannot be guessed/brute forced )
