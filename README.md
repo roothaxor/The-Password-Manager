@@ -31,7 +31,7 @@ so password manager won't work untill you move that file back.
 `Automated Configuration`
 > config.py will require admin priv's to access the windows registry
 <p align="center">
-  <img width="560" height="400" src="https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/config.png">
+  <img width="760" height="300" src="https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/config.png">
 </p>
 `Right-Click Will Show new Option`
 [!Alt Text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/right_click.png)
