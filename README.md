@@ -20,7 +20,7 @@ thats should do the rest of configuration work!
 Just enter the Main Password, Panic Password and CipherKey
 Make sure CipherKey is 16 letter long
 ```
-Remember: Config.py will require admin priv's because it is going to access the windows registry to add Key's for Right-Click access to Password Generator
+Remember: Config.py will require admin privilege because it is going to access the windows registry to add Key's for Right-Click access to Password Generator
 ##### Panic Password
 
 Ok, incase you are forced to open the password manager, Enter the panic password
@@ -29,26 +29,30 @@ so password manager won't work untill you move that file back.
 
 ## ScreenShots ( Updated: 23/05/17 )
 `Automated Configuration`
-> config.py will require admin priv's to access the windows registry
+> config.py will require admin privilege to access the windows registry
 <p align="center">
   <img src="https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/config.png">
 </p>
+<br>
 `Right-Click Will Show New Option: Password Generate`
 <p align="center">
   <img src="https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/right_click.png">
 </p>
+<br>
 `Example view of how Password Generate working process!`
 >For reason: ie: my Facebook ( or put email next to it for ease ), how much letter in digits ( ie: 10,20,30 )
 <p align="center">
-  <img src="https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/right_click.png">
+  <img src="https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/pass_gen.png">
 </p>
-`Login view of Password Viewer!`
+<br>
+`Login !`
 >Remember here you can enter `main password` or `panic password`
 <p align="center">
-  <img src="https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/right_click.png">
+  <img src="https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/pass_view.png">
 </p>
+<br>
 `Inside of Password Viewer!`
 >Only use ENTER or SPACE key to scroll/exit inside the Opened Command line interface
 <p align="center">
-  <img src="https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/right_click.png">
+  <img src="https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/pass_view_example.png">
 </p>
