@@ -1,2 +1,3 @@
 clipboard==0.0.4
+pycrypto==2.6.1
 getpass
