@@ -30,9 +30,7 @@ so password manager won't work untill you move that file back.
 ## ScreenShots ( Updated: 23/05/17 )
 `Automated Configuration`
 > config.py will require admin privilege to access the windows registry
-<p align="center">
-  <img src="https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/config.png">
-</p>
+<img src="https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/config.png">
 
 </br>
 `Right-Click Will Show New Option: Password Generate`
