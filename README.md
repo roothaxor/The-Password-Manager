@@ -33,26 +33,30 @@ so password manager won't work untill you move that file back.
 <p align="center">
   <img src="https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/config.png">
 </p>
-<br>
+
+</br>
 `Right-Click Will Show New Option: Password Generate`
 <p align="center">
   <img src="https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/right_click.png">
 </p>
-<br>
+
+</br>
 `Example view of how Password Generate working process!`
->For reason: ie: my Facebook ( or put email next to it for ease ), how much letter in digits ( ie: 10,20,30 )
+> For reason: ie: my Facebook ( or put email next to it for ease ), how much letter in digits ( ie: 10,20,30 )
 <p align="center">
   <img src="https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/pass_gen.png">
 </p>
-<br>
+
+</br>
 `Login !`
->Remember here you can enter `main password` or `panic password`
+> Remember here you can enter `main password` or `panic password`
 <p align="center">
   <img src="https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/pass_view.png">
 </p>
-<br>
+
+</br>
 `Inside of Password Viewer!`
->Only use ENTER or SPACE key to scroll/exit inside the Opened Command line interface
+> Only use ENTER or SPACE key to scroll/exit inside the Opened Command line interface
 <p align="center">
   <img src="https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/pass_view_example.png">
 </p>
