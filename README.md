@@ -34,8 +34,7 @@ so password manager won't work untill you move that file back.
 
 
 `Right-Click `
-> Right-Click will show new option : Generate Password
-<br />
+> Right-Click will show new option : Generate Password<br />
 ![Alt text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/right_click.png)
 
 
@@ -50,5 +49,5 @@ so password manager won't work untill you move that file back.
 
 
 `Inside of Password Viewer!`
-> Only use ENTER or SPACE key to scroll/exit inside the Opened Command line interface<br />
+> Only use ENTER or SPACE key to scroll/exit inside opened `CLI`<br />
 ![Alt text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/pass_view_example.png)
