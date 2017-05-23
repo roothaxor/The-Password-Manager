@@ -30,19 +30,23 @@ so password manager won't work untill you move that file back.
 ## ScreenShots ( Updated: 23/05/17 )
 `Automated Configuration`
 > config.py will require admin privilege to access the windows registry
-<img src="https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/config.png">
----
+![Alt text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/config.png)
+
+
 `Right-Click Will Show New Option: Password Generate`
-<img src="https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/right_click.png">
----
+![Alt text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/right_click.png)
+
+
 `Example view of how Password Generate working process!`
 > For reason: ie: my Facebook ( or put email next to it for ease ), how much letter in digits ( ie: 10,20,30 )
-<img src="https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/pass_gen.png">
----
+![Alt text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/pass_gen.png)
+
+
 `Login !`
 > Remember here you can enter `main password` or `panic password`
-<img src="https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/pass_view.png">
----
+![Alt text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/pass_view.png)
+
+
 `Inside of Password Viewer!`
 > Only use ENTER or SPACE key to scroll/exit inside the Opened Command line interface
-<img src="https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/pass_view_example.png">
+![Alt text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/pass_view_example.png)
