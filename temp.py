@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8; mode: python; py-indent-offset: 4; indent-tabs-mode: nil -*-
 import sys, os, traceback, types
+sys.dont_write_bytecode = True
 
 def isUserAdmin():
 
