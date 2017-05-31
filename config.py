@@ -1,4 +1,4 @@
-import os, sys, base64, time
+import os, sys, base64, time, socket
 from __files import version
 import _winreg as wreg
 import temp
@@ -43,7 +43,7 @@ f.close()
 print "\nConfig done!!"
 print "\nCreating new database, with your new cipherKey...."
 time.sleep(3)
-usr = os.environ['username']
+usr = socket.gethostname()
 ff = '''***** AES Encrypted Password Manager | User : %s *****
 
 '''%(usr)
@@ -67,4 +67,5 @@ key.Close()
 a = __file__
 os.remove(a)
 os.remove('temp.py')
+os.remove('temp.pyc')
 sys.exit()
