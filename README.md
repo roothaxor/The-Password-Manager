@@ -33,25 +33,20 @@ so password manager won't work untill you move that file back.
 
 ## ScreenShots ( Updated: 23/05/17 )
 `Automated Configuration`
-> config.py will require admin privilege to access the windows registry<br />
 ![Alt text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/config.png)
 
 
-`Right-Click `
-> Right-Click will show new option : Generate Password<br />
+`Right-Click`
 ![Alt text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/right_click.png)
 
 
 `Password Generation working process!`
-> For reason: ie: my Facebook ( or put email next to it for ease ), how much letter in digits ( ie: 10,20,30 )<br />
 ![Alt text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/pass_gen.png)
 
 
-`Login !`
-> Remember here you can enter `main password` or `panic password`<br />
+`Login! ( Main/Panic Password ) `
 ![Alt text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/pass_view.png)
 
 
 `Inside of Password Viewer!`
-> Only use ENTER or SPACE key to scroll/exit inside opened `CLI`<br />
 ![Alt text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/pass_view_example.png)
