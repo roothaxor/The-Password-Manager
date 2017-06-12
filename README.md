@@ -31,7 +31,7 @@ Ok, incase you are forced to open the password manager, Enter the panic password
 this will move your database file to C:\users\user\appdata\roaming
 so password manager won't work untill you move that file back.
 
-## ScreenShots ( Updated: 23/05/17 )
+## ScreenShots
 `Automated Configuration` </br>
 > ![Alt text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/config.png)
 
