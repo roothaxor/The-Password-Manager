@@ -32,21 +32,21 @@ this will move your database file to C:\users\user\appdata\roaming
 so password manager won't work untill you move that file back.
 
 ## ScreenShots ( Updated: 23/05/17 )
-`Automated Configuration`
-![Alt text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/config.png)
+`Automated Configuration` </br>
+> ![Alt text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/config.png)
 
 
-`Right-Click`
-![Alt text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/right_click.png)
+`Right-Click` </br>
+> ![Alt text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/right_click.png)
 
 
-`Password Generation working process!`
-![Alt text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/pass_gen.png)
+`Password Generation working process!` </br>
+> ![Alt text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/pass_gen.png)
 
 
-`Login! ( Main/Panic Password ) `
-![Alt text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/pass_view.png)
+`Login! ( Main/Panic Password ) ` </br>
+> ![Alt text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/pass_view.png)
 
 
-`Inside of Password Viewer!`
-![Alt text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/pass_view_example.png)
+`Inside of Password Viewer!` </br>
+> ![Alt text](https://github.com/roothaxor/The-Password-Manager/blob/master/Screenshots/pass_view_example.png)
