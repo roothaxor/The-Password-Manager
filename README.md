@@ -9,7 +9,7 @@
 
 ### Changelogs ( v.1.2.3 )
 * Symlink issues fixed.
-* EXE released for Passowrd Generator, Password Vault Viewer
+* EXE released for Password Generator, Password Vault Viewer
 * Many Minor issues fixed in version 1.2.3
 ## Installation Guide `Read Carefully`
 Downloading The Password Manager tool
