@@ -7,6 +7,10 @@
  * Encrypts your stored password's with AES-256 Encryption ( Without Password not even you can see the Database )
  * Command line interface, Generates Strong & Random Password ( Cannot be guessed/brute forced )
 
+### Changelogs ( v.1.2.3 )
+* Symlink issues fixed.
+* EXE released for Passowrd Generator, Password Vault Viewer
+* Many Minor issues fixed in version 1.2.3
 ## Installation Guide `Read Carefully`
 Downloading The Password Manager tool
 * [Download .zip file ( Direct Link )](https://codeload.github.com/roothaxor/The-Password-Manager/zip/master)
