@@ -31,7 +31,7 @@ thats should do the rest of configuration work!
 Just enter the Main Password, Panic Password and CipherKey
 Make sure CipherKey is 16 letter long
 ```
-#####Remember: Config.py will require admin privilege for access the windows registry to add Key's for Right-Click access to Password Generator
+##### Remember: Config.py will require admin privilege for access the windows registry to add Key's for Right-Click access to Password Generator
 ##### Panic Password
 
 Ok, incase you are forced to open the password manager, Enter the panic password
