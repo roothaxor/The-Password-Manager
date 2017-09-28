@@ -45,4 +45,4 @@ so password manager won't work untill you move that file back.
 
 ## Testing
 `Configuration` </br>
-> ![Alt text](yes.gif)
+> ![Alt text](tpm.gif)
